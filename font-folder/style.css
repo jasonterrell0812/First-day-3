@@ -1,0 +1,13 @@
+p {
+font-family: "Pacifico", sans-serif;
+font-size: 25px;
+font-weight: 130px;
+color: red;
+margin-left: 125px;
+
+{
+	font-family: "Pacifico", sans-serif;
+}
+
+a:hover { 
+	background-color: gold; }
